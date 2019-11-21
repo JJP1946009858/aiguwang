@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
         <module name="client" />
-        <module name="config" />
         <module name="fuckfeign" />
         <module name="fuckgateway" />
+        <module name="config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
