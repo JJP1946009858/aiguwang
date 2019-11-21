@@ -10,7 +10,7 @@ spring:
       server:
         git:
           uri: https://github.com/JJP1946009858/aiguwang.git #配置git仓库地址
-          searchPaths:classpath:/fuck #配置仓库路径
+          searchPaths:git #配置仓库路径
           username: JJP1946009858 #访问git仓库的用户名
           password: BRADY88a #访问git仓库的用户密码
       label: master #配置仓库的分支
