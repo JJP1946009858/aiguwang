@@ -1,0 +1,5 @@
+# Project exclude paths
+/client/target/
+/eurekaserver/target/
+/fuckfeign/target/
+/fuckgateway/target/
